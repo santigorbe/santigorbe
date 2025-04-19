@@ -20,7 +20,7 @@
   - Power BI
   - Numpy / Pandas / Matplotlib / ScikitLearn / Pytorch
 
-* También manejo herramientas clave como:
+* También manejo herramientas como:
   - Git
   - Github
   - Postman

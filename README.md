@@ -26,6 +26,7 @@
   - Postman
   - Docker
   - Kubernetes
+  - PM2
   - VMware / vSphere / ESXI / vCenter
   - Visual Studio Code
   - IntelliJ IDEA

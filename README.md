@@ -32,6 +32,7 @@
   - PowerBI / Excel
     
 ### 📝 Algunos de mis proyectos
+- [SpringBoot API con Microservicios](https://github.com/santigorbe/SpringBoot-MicroserviciosAPI)
 - [NodeJs con Sequelize](https://github.com/santigorbe/NodeJs-Sequelize)
 - [NodeJs Autenticacion Completa con JWT](https://github.com/santigorbe/NodeJs-AutenticacionCompleta)
 - [SpringBoot Autenticacion Completa con JWT](https://github.com/santigorbe/SpringBoot-AutenticacionCompleta)

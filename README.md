@@ -8,8 +8,6 @@
 <a href="https://www.linkedin.com/in/santiago-gorbea-487276219/"><img height="32px" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmPdKRkCtqXB94svbTykR1XudgqXLhlolMQ&usqp=CAU"></a>
 <a href="https://github.com/santigorbe?tab=repositories"><img height="32px" width="32px" src="https://github.com/santigorbe/santigorbe/assets/81199587/c8d1c32e-af31-48f6-9749-7479f547458d"></a>
 
-* Soy desarrollador full stack, uso Python y JavaScript principalmente.<br>
-
 * Algunos de mis conocimientos son:
   - Node Js/ Express
   - Java / Spring Boot

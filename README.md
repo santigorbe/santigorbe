@@ -9,6 +9,7 @@
 <a href="https://github.com/santigorbe?tab=repositories"><img height="32px" width="32px" src="https://github.com/santigorbe/santigorbe/assets/81199587/c8d1c32e-af31-48f6-9749-7479f547458d"></a>
 
 * Algunos de mis conocimientos son:
+  - GO - Golang / GIN
   - Node Js/ Express
   - Java / Spring Boot
   - Python
@@ -25,6 +26,7 @@
   - Docker
   - Kubernetes
   - PM2
+  - AWS
   - VMware / vSphere / ESXI / vCenter
   - Visual Studio Code
   - IntelliJ IDEA
